@@ -6,4 +6,5 @@
 
 # Talks
 
-- [Erlang Factroy SF 2016 - Keynote - John Hughes - Why Functional Programming Matters](https://www.youtube.com/watch?v=Z35Tt87pIpg)
+- [John Hughes - Why Functional Programming Matters](https://www.youtube.com/watch?v=Z35Tt87pIpg) 2016 Erlang Factroy Keynote
+- [Power of Simplicity - Alan Kay](https://www.youtube.com/watch?v=NdSD07U5uBs) 2015
