@@ -10,11 +10,9 @@
 | [[https://github.com/papers-we-love/papers-we-love/blob/master/paradigms/functional_programming/why-functional-programming-matters.pdf][Why Functional Programming Matters]]                                          | John Hughes        | Institutionen for Datavetenskap, Sweeden | 1990 |      |
 |-----------------------------------------------------------------------------+--------------------+------------------------------------------+------+------|
 | [[https://www.cp.eng.chula.ac.th/~piak/talk/2011/fp/a1977-backus.pdf][Can Programming Be Liberated from the von Neumann Style?]]                    | John Backus        | IMB Research Laboratory                  | 1977 |      |
-| A Functional Style and Its Algebra of Programs                              |                    |                                          |      |      |
 |-----------------------------------------------------------------------------+--------------------+------------------------------------------+------+------|
 | [[https://github.com/papers-we-love/papers-we-love/blob/master/paradigms/functional_programming/concatenative-programming-an-overlooked-paradigm.pdf][Concatenative Programming: An Overlooked Paradigm in Functional Programming]] | Dominikus Herzberg | Heilbronn University                     |      |      |
 |                                                                             | Tim Reichert       | Northumbria University                   |      |      |
-|                                                                             |                    |                                          |      |      |
 |-----------------------------------------------------------------------------+--------------------+------------------------------------------+------+------|
 | [[https://github.com/CorfuDB/CorfuDB/blob/master/resources/CORFU-TOCS2013.pdf][CORFU: A Distributed Shared Log]]                                             |                    |                                          | 2013 |      |
 |-----------------------------------------------------------------------------+--------------------+------------------------------------------+------+------|
