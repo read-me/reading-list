@@ -28,11 +28,13 @@
 
 ** Talks
 
-|------------------------------------+-------------+-----+------+------+------------|
-| Title/Link                         | Speaker     | Org | Date | Note | Tags       |
-|------------------------------------+-------------+-----+------+------+------------|
-| [[https://www.youtube.com/watch?v=Z35Tt87pIpg][Why Functional Programming Matters]] | John Hughes |     |      |      | FP         |
-|------------------------------------+-------------+-----+------+------+------------|
-| [[https://www.youtube.com/watch?v=NdSD07U5uBs][Power of Simplicity]]                | Alan Kay    |     | 2015 |      | Philosophy |
-|------------------------------------+-------------+-----+------+------+------------|
+|------------------------------------+-------------+-----+------+----------+------------|
+| Title/Link                         | Speaker     | Org | Date | Note     | Tags       |
+|------------------------------------+-------------+-----+------+----------+------------|
+| [[https://www.youtube.com/watch?v=Z35Tt87pIpg][Why Functional Programming Matters]] | John Hughes |     |      |          | FP         |
+|------------------------------------+-------------+-----+------+----------+------------|
+| [[https://www.youtube.com/watch?v=NdSD07U5uBs][Power of Simplicity]]                | Alan Kay    |     | 2015 |          | Philosophy |
+|------------------------------------+-------------+-----+------+----------+------------|
+| [[https://www.youtube.com/playlist?list=PL_IxoDz1Nq2Y7mIxMZ28mVtjRbbnlVdmy][NixCon]]                             |             |     | 2015 | Playlist |            |
+|------------------------------------+-------------+-----+------+----------+------------|
 
